@@ -15,7 +15,7 @@ CryptoJS常规加解密自吐密钥、加解密方式，快速定位加解密位
 
 ## If It Helps 
 
-<img src="https://github.com/keecth/FakeCryptoJS/blob/master/images/pay.jpg" width="300px" />
+<img src="https://github.com/keecth/FakeCryptoJS/blob/main/pay.png" width="300px" />
 
 ## Star History
 
