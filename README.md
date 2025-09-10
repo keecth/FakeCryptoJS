@@ -13,6 +13,10 @@ CryptoJS常规加解密自吐密钥、加解密方式，快速定位加解密位
 
 该工具只授权于企业内部进行问题排查，请勿用于非法用途，请遵守网络安全法，否则后果作者概不负责
 
+## If It Helps 
+
+<img src="https://github.com/keecth/FakeCryptoJS/blob/master/images/pay.jpg" width="300px" />
+
 ## Star History
 
 ![Star History Chart](https://api.star-history.com/svg?repos=keecth/FakeCryptoJS&type=Date)
