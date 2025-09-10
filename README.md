@@ -1,6 +1,9 @@
 # FakeCryptoJS
 CryptoJS常规加解密自吐密钥、加解密方式，快速定位加解密位置(无视混淆)。SRC和常规渗透神器
 
+## 使用视频教程
+
+[CryptoJS Hook大法](https://www.bilibili.com/video/BV1e8HQzgExF/?vd_source=0db2ad1c0370be8c178e3df580cfe1d9)
 
 
 ## :b:免责声明
