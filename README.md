@@ -22,4 +22,4 @@ CryptoJS常规加解密自吐密钥、加解密方式，快速定位加解密位
 
 ## Star History
 
-![Star History Chart](https://starchart.cc/keecth/FakeCryptoJS.svg)
+![Star History Chart](https://starchart.cc/keecth/FakeCryptoJS.svg?variant=adaptive)
