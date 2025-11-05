@@ -15,6 +15,12 @@ CryptoJS常规加解密自吐密钥、加解密方式，快速定位加解密位
 
 持续更新中！！！
 
+## 更新
+
+- 创建项目并添加Hook CryptoRSA.js、Hook CryptoAES.js脚本
+- 新增 FakeCryptoJS_chrome插件版.zip
+- FakeCryptoJS_chrome插件版.zip 添加token过期自动退出功能
+- 新增 web_aes.py、web_sm2.py、web_sm4.py（封装易用，自用于mitm脚本调用）
 
 ## :b:免责声明
 
