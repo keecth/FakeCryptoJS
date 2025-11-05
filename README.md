@@ -3,7 +3,17 @@ CryptoJS常规加解密自吐密钥、加解密方式，快速定位加解密位
 
 ## 使用视频教程
 
-[CryptoJS Hook大法](https://www.bilibili.com/video/BV1e8HQzgExF/?vd_source=0db2ad1c0370be8c178e3df580cfe1d9)
+[CryptoJS Hook大法](https://www.bilibili.com/video/BV1e8HQzgExF/)
+
+## FakeCrypto插件版
+
+[FakeCrypto插件版专题](https://www.bilibili.com/video/BV1kq1NBaEGD/)
+
+- 支持crypto-js加密库对称加密算法、hash算法
+- 支持sm-crypto加密库国密sm2、sm4算法
+- 支持gmsm加密库国密sm2算法
+
+持续更新中！！！
 
 
 ## :b:免责声明
