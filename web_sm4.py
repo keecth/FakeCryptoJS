@@ -11,8 +11,8 @@ class SM4_Crypt(Exception):
         :param iv: 16 字节长度的 String , 只能包含大小写英文、阿拉伯数字
         :return: bool
         """
-        self._KEY = key.encode("utf-8")
-        self._IV = iv.encode("utf-8")
+        self._KEY = binascii.unhexlify(key)
+        self._IV = binascii.unhexlify(iv)
         self._SM4_CRYPT = sm4.CryptSM4()
 
     def encrypt_ECB_base64(self, data: str) -> str:
