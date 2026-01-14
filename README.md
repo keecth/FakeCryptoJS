@@ -12,6 +12,7 @@ CryptoJS常规加解密自吐密钥、加解密方式，快速定位加解密位
 - 支持crypto-js加密库对称加密算法、hash算法
 - 支持sm-crypto加密库国密sm2、sm4算法
 - 支持gmsm加密库国密sm2算法
+- 支持evit-gm-crypt和gm-crypt-nodejs加密库国密sm4算法
 
 持续更新中！！！
 
